@@ -1,0 +1,40 @@
+2025-03-31 10:57:15 | DEBUG    | core.roxy_client:__init__:19 - 初始化 RoxyAPIClient: base_url=http://127.0.0.1:50000
+2025-03-31 10:57:15 | INFO     | __main__:test_basic_functions:12 - 测试健康检查...
+2025-03-31 10:57:15 | DEBUG    | core.roxy_client:_get:25 - 发送 GET 请求: http://127.0.0.1:50000/health, params=None
+2025-03-31 10:57:15 | INFO     | __main__:test_basic_functions:15 - 健康检查通过
+2025-03-31 10:57:15 | INFO     | __main__:test_basic_functions:21 - 获取工作区列表...
+2025-03-31 10:57:15 | DEBUG    | core.roxy_client:_get:25 - 发送 GET 请求: http://127.0.0.1:50000/browser/workspace, params=None
+2025-03-31 10:57:15 | ERROR    | __main__:test_basic_functions:27 - 获取工作区失败: {'code': 101, 'msg': '无效的 token', 'data': None}
+2025-03-31 10:57:15 | ERROR    | __main__:<module>:94 - 测试失败！
+2025-03-31 11:00:50 | DEBUG    | core.roxy_client:__init__:19 - 初始化 RoxyAPIClient: base_url=http://127.0.0.1:50000
+2025-03-31 11:00:50 | INFO     | __main__:test_basic_functions:12 - 测试健康检查...
+2025-03-31 11:00:50 | DEBUG    | core.roxy_client:_get:25 - 发送 GET 请求: http://127.0.0.1:50000/health, params=None
+2025-03-31 11:00:50 | INFO     | __main__:test_basic_functions:15 - 健康检查通过
+2025-03-31 11:00:50 | INFO     | __main__:test_basic_functions:21 - 获取工作区列表...
+2025-03-31 11:00:50 | DEBUG    | core.roxy_client:_get:25 - 发送 GET 请求: http://127.0.0.1:50000/browser/workspace, params=None
+2025-03-31 11:00:50 | ERROR    | __main__:test_basic_functions:27 - 获取工作区失败: {'code': 101, 'msg': '无效的 token', 'data': None}
+2025-03-31 11:00:50 | ERROR    | __main__:<module>:94 - 测试失败！
+2025-03-31 11:03:31 | DEBUG    | core.roxy_client:__init__:19 - 初始化 RoxyAPIClient: base_url=http://127.0.0.1:50000
+2025-03-31 11:03:31 | INFO     | __main__:test_basic_functions:12 - 测试健康检查...
+2025-03-31 11:03:31 | DEBUG    | core.roxy_client:_get:25 - 发送 GET 请求: http://127.0.0.1:50000/health, params=None
+2025-03-31 11:03:31 | INFO     | __main__:test_basic_functions:15 - 健康检查通过
+2025-03-31 11:03:31 | INFO     | __main__:test_basic_functions:21 - 获取工作区列表...
+2025-03-31 11:03:31 | DEBUG    | core.roxy_client:_get:25 - 发送 GET 请求: http://127.0.0.1:50000/browser/workspace, params=None
+2025-03-31 11:03:31 | ERROR    | __main__:test_basic_functions:27 - 获取工作区失败: {'code': 101, 'msg': '无效的 token', 'data': None}
+2025-03-31 11:03:31 | ERROR    | __main__:<module>:94 - 测试失败！
+2025-03-31 11:05:34 | DEBUG    | core.roxy_client:__init__:33 - 初始化 RoxyAPIClient: base_url=http://127.0.0.1:50000
+2025-03-31 11:05:34 | INFO     | __main__:test_basic_functions:12 - 测试健康检查...
+2025-03-31 11:05:34 | DEBUG    | core.roxy_client:_get:39 - 发送 GET 请求: http://127.0.0.1:50000/health, params=None
+2025-03-31 11:05:34 | INFO     | __main__:test_basic_functions:15 - 健康检查通过
+2025-03-31 11:05:34 | INFO     | __main__:test_basic_functions:21 - 获取工作区列表...
+2025-03-31 11:05:34 | DEBUG    | core.roxy_client:_get:39 - 发送 GET 请求: http://127.0.0.1:50000/browser/workspace, params=None
+2025-03-31 11:05:34 | ERROR    | __main__:test_basic_functions:27 - 获取工作区失败: {'code': 101, 'msg': '无效的 token', 'data': None}
+2025-03-31 11:05:34 | ERROR    | __main__:<module>:94 - 测试失败！
+2025-03-31 11:06:02 | DEBUG    | core.roxy_client:__init__:33 - 初始化 RoxyAPIClient: base_url=http://127.0.0.1:50000
+2025-03-31 11:06:02 | INFO     | __main__:test_basic_functions:12 - 测试健康检查...
+2025-03-31 11:06:02 | DEBUG    | core.roxy_client:_get:39 - 发送 GET 请求: http://127.0.0.1:50000/health, params=None
+2025-03-31 11:06:02 | INFO     | __main__:test_basic_functions:15 - 健康检查通过
+2025-03-31 11:06:02 | INFO     | __main__:test_basic_functions:21 - 获取工作区列表...
+2025-03-31 11:06:02 | DEBUG    | core.roxy_client:_get:39 - 发送 GET 请求: http://127.0.0.1:50000/browser/workspace, params=None
+2025-03-31 11:06:02 | ERROR    | __main__:test_basic_functions:27 - 获取工作区失败: {'code': 101, 'msg': '无效的 token', 'data': None}
+2025-03-31 11:06:02 | ERROR    | __main__:<module>:94 - 测试失败！
